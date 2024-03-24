@@ -1,6 +1,8 @@
 # DIU24
 Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: Experiencias gastronómicas) 
 
+### Repositorio GitHub: https://github.com/AlvareitorHD/DIU2.git
+
 Grupo: DIU2.PizzaConPionono.  Curso: 2023/24 
 Updated: 14/3/2024
 

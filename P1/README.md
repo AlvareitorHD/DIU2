@@ -1,3 +1,10 @@
+# DIU24
+Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: Experiencias gastronómicas)
+
+Miembros
+ * :bust_in_silhouette:   Álvaro Ruiz Luzón     :octocat:     
+ * :bust_in_silhouette:  Adrián Romero Vílchez     :octocat:
+
 # DIU - Practica1, entregables
 - User research - (plan) template 
 - Desk research: Análisis Competencia 

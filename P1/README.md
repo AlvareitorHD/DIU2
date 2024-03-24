@@ -45,4 +45,11 @@ Hemos elegido estudiar ***Summumm*** debido a la diversidad de servicios y estra
 
 ## Persona
 
-Hemos creado 
+Hemos creado estas dos personas totalmente diferentes (tanto físicamente, psicológicamente y de escenarios diferentes) para intentar abordar un amplio espectro de tipos de usuario:
+
+- **María Antonieta**: una señora viuda, tiene 67 años y disfruta pasar tiempo con sus nietos en Valencia. Su pasatiempo son las manualidades como el punto y la costura. Ha sido ama de casa toda su vida y se jubiló a los 62 años. Antes de la muerte de su esposo, disfrutaba viajar y probar nuevas recetas con él. Desde su fallecimiento hace tres años, ha evitado salir mucho de casa pero ahora está interesada en retomar los viajes.
+  
+- **Li Yong**: un joven de 26 años de Vietnam, próximo a terminar sus estudios, decide vivir temporalmente en España para sumergirse en la cultura occidental. Tiene habilidades normales y un nivel de español básico pero funcional. Apasionado por la tecnología y la programación, así como por la comida occidental, como los bocadillos y el pescado de Andalucía. Antes ayudaba a su padre en una tienda de informática y actualmente trabaja en un supermercado para mantenerse, compartiendo un piso con otros estudiantes.
+
+Ambas personas tienen características y experiencias que las hacen adecuadas para este estudio, ya que pueden ofrecer perspectivas únicas y valiosas sobre la usabilidad y la experiencia del usuario en diferentes contextos y plataformas (en este caso sobre Experiencias Gastronómicas.
+

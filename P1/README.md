@@ -41,7 +41,7 @@ Hemos seleccionado tres aplicaciones para realizar el Competitive Analysis:
 
 - **Summumm**: Proporciona un programa completo para disfrutar individualmente o con empresas, con un precio medio de 85€ por taller. Cuenta con diversificaciones y estrategias de expansión, como cenas y asesoramiento además de los talleres.
 
-Hemos elegido estudiar ***Summumm*** debido a la diversidad de servicios y estrategias de expansión que tienen, pueden atraer tanto a individuos como a empresas, ofreciendo una experiencia más completa y variada. Además, su enfoque profesional puede ajustarse a necesidades complejas, lo que le da una ventaja sobre los otros dos competidores.
+Hemos elegido estudiar ***Granada Cooking*** porque, a pesar de no ser la web mejor diseñada ni la más competente, es la que mejor se adecua a las personas ficticias con las que hemos realizado el estudio.
 
 ## Persona
 

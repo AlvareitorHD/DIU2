@@ -53,3 +53,27 @@ Hemos creado estas dos personas totalmente diferentes (tanto físicamente, psico
 
 Ambas personas tienen características y experiencias que las hacen adecuadas para este estudio, ya que pueden ofrecer perspectivas únicas y valiosas sobre la usabilidad y la experiencia del usuario en diferentes contextos y plataformas (en este caso sobre Experiencias Gastronómicas.
 
+## Experience Journey Map
+
+Para el estudio de una experiencia de nuestras personas ficticias, ambos perfiles destacan la importancia de una plataforma web accesible y fácil de usar para reservar talleres gastronómicos. Pero viendo sus casos de estudio comtemplamos lo siguiente:
+
+- **María Antonieta**: Mientras prepara su viaje a Granada, encuentra Granada Cooking y navega por la plataforma, pero no consigue ver un taller de comida granadida, hasta que encuentra uno después de un rato y lo reserva, pero se le hace complicado dicha operación. Justo después comprueba la confirmación pero no se asegura de conocer detalles sobre el taller (como la duración de éste).
+
+- **Li Yong**: Busca por la red actividades de cocina occidental hasta que entra en Granada Cooking y busca algún taller, pero le cuesta debido al idioma y que no puede filtrar bien dichos talleres. Además se le hace un poco confuso el carrito de la web y teme por no rodearse de gente de su edad en el taller reservado.
+
+La conclusión del estudio revela que tanto María Antonieta como Li Yong encuentran obstáculos al utilizar la plataforma de Granada Cooking para reservar talleres gastronómicos. Estos hallazgos resaltan la necesidad de mejorar la accesibilidad, la usabilidad y la comunicación en la plataforma para satisfacer las necesidades y expectativas de los usuarios, especialmente aquellos con diferentes niveles de experiencia y habilidades tecnológicas.
+
+## Usability Review
+
+Como revisión de usabilidad evaluamos diferentes puntos previamente definidos de si ***Granada Cooking*** los consigue superar o si son necesarios mejorarlos. Aquí dejamos algunos apartados que resumen un poco dicho estudio:
+
+- **Funcionalidades**: Las características cumplen con los objetivos comunes del usuario, pero el flujo de reserva y búsqueda de talleres es complicado.
+- **Navegación**: La navegación es intuitiva y la estructura del sitio aborda bien los objetivos del usuario, aunque la ubicación actual no está claramente indicada.
+- **Búsqueda**: La función de búsqueda es deficiente y no maneja bien las búsquedas comunes ni las faltas de ortografía.
+- **Rendimiento**: El rendimiento del sitio afecta negativamente la experiencia del usuario, con descargas lentas de páginas y retrasos.
+
+La puntuación general de usabilidad es de 68 - Moderada, lo que indica que los usuarios pueden completar la mayoría de las tareas importantes, pero la experiencia podría mejorarse significativamente. Más detalladamente:
+
+#### Valoración práctica
+
+Un usuario promedio puede utilizar la página y completar las tareas principales, aún requiere mejoras significativas. Los tiempos de carga son excesivamente largos, la funcionalidad del calendario y la hora disponibles presenta fallos y es poco visible, y la funcionalidad de búsqueda no acepta errores tipográficos, lo que dificulta la experiencia del usuario. Estos aspectos críticos necesitan ser abordados para mejorar la eficiencia y la usabilidad de la página.

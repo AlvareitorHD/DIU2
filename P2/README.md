@@ -7,7 +7,9 @@
 
 
 ### PROPUESTA DE VALOR
-* ScopeCanvas
+* Con nuestra plataforma de cursos de cocina en línea descrubirás una nueva forma de acceder a recetas exclusivas.
+Tendrás la posibilidad de dominar nuevas habilidades culinarias y aprender de los mejores chefs de toda España, y
+todo desde el confort de tu hogar. Únete ahora y comienza a crear platos extraordinarios.
 
 
 ### TASK ANALYSIS

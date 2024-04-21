@@ -6,7 +6,9 @@ Vamos a sintetizar los hallazgos (insights) y propuesta de diseño usando un map
 
 * Mapa de empatía
 
-![imagen_mapa_empatía](Empathy_Customer_Map.pdf) 
+![imagen_mapa_empatía](mapaempatia.png)
+
+(Ver mejor el PDF para leer las notas)
 
 ### PROPUESTA DE VALOR
 ***Con nuestra plataforma de cursos de cocina en línea descrubirás una nueva forma de acceder a recetas exclusivas.
@@ -16,11 +18,17 @@ todo desde el confort de tu hogar. Únete ahora y comienza a crear platos extrao
 * Scope Canvas
 Complementamos con un LeanUX Canvas nuestra propuesta de valor:
 
-![imagen_scope_canvas](scope_canvas.pdf)
+![imagen_scope_canvas](scope_canvas.png)
 
 ### TASK ANALYSIS
 
 * User Task Matrix 
+Matriz con todos los casos de uso de la plataforma junto a los actores:
+
+![user_task_matrix](usertaskmatrix.png)
+
+(Ordenado por caso de uso más usado)
+
 * User/Task flow
 
 

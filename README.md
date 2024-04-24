@@ -4,17 +4,18 @@ Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: Experiencias gastronómi
 ### Repositorio GitHub: https://github.com/AlvareitorHD/DIU2.git
 
 Grupo: DIU2.PizzaConPionono.  Curso: 2023/24 
-Updated: 14/3/2024
+Updated: 24/04/2024
 
-Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Proyecto: Cooking From Home
 
 Descripción: 
+Nuestra plataforma ofrece una experiencia única para todos los entusiastas de la cocina que desean llevar sus habilidades culinarias al siguiente nivel. Con una amplia variedad de cursos de cocina en línea, te invitamos a descubrir una nueva forma de acceder a recetas exclusivas y aprender de los mejores chefs de toda España, todo desde la comodidad de tu hogar.
 
->>> Describa la idea de su producto en la práctica 2 
+Propuesta de Valor:
+Con nuestra plataforma de cursos de cocina en línea descubrirás una nueva forma de acceder a recetas exclusivas. Tendrás la posibilidad de dominar nuevas habilidades culinarias y aprender de los mejores chefs de toda España, y todo desde el confort de tu hogar. Únete ahora y comienza a crear platos extraordinarios.
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+![](./P2/logo_diu.png)
 
 Miembros
  * :bust_in_silhouette:   Álvaro Ruiz Luzón     :octocat:     

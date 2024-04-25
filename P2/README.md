@@ -34,12 +34,21 @@ Matriz con todos los casos de uso de la plataforma junto a los actores:
 
 ### ARQUITECTURA DE INFORMACIÓN
 
-* Sitemap 
+* Sitemap
+![](sitemap.jpg)
 * Labelling 
 
 
 ### Prototipo Lo-FI Wireframe 
+Se han realizado un par de bocetos a mano y otros mediante Figma para aplicar Wireframe.
+* Bocetos:
+![Boceto 1](boceto-01.jpg)
+![Boceto 2](boceto-02.jpg)
+![Boceto 3](boceto-03.jpg)
+![Boceto 4](boceto-04.jpg)
 
+CONSULTAR TAMBIÉN EL PDF DE WIREFRAMES
 
 ### Conclusiones  
-(incluye valoración de esta etapa)
+A través de herramientas como el mapa de empatía, hemos profundizado en las necesidades, deseos y puntos de dolor de nuestros usuarios potenciales. Esto nos ha permitido diseñar una propuesta de valor más sólida y centrada en sus necesidades reales.
+Al realizar un análisis de tareas y crear una arquitectura de información coherente, hemos logrado definir claramente las funciones principales de la plataforma y organizar su navegación de manera lógica. Esto asegura una experiencia de usuario más intuitiva y fluida.

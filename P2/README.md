@@ -37,7 +37,7 @@ Matriz con todos los casos de uso de la plataforma junto a los actores:
 * Sitemap
 ![](sitemap.jpg)
 * Labelling 
-
+![Labelling](Labelling.pdf)
 
 ### Prototipo Lo-FI Wireframe 
 Se han realizado un par de bocetos a mano y otros mediante Figma para aplicar Wireframe.
@@ -47,7 +47,8 @@ Se han realizado un par de bocetos a mano y otros mediante Figma para aplicar Wi
 ![Boceto 3](boceto-03.jpg)
 ![Boceto 4](boceto-04.jpg)
 
-CONSULTAR TAMBIÉN EL PDF DE WIREFRAMES
+CONSULTAR TAMBIÉN EL PDF DE WIREFRAMES:
+![Wireframes](Wireframes.pdf)
 
 ### Conclusiones  
 A través de herramientas como el mapa de empatía, hemos profundizado en las necesidades, deseos y puntos de dolor de nuestros usuarios potenciales. Esto nos ha permitido diseñar una propuesta de valor más sólida y centrada en sus necesidades reales.

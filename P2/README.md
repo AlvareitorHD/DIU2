@@ -30,7 +30,7 @@ Matriz con todos los casos de uso de la plataforma junto a los actores:
 (Ordenado por caso de uso más usado)
 
 * User/Task flow
-
+![User flow](User_Flow.pdf)
 
 ### ARQUITECTURA DE INFORMACIÓN
 

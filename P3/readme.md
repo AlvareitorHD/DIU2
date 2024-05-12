@@ -10,7 +10,8 @@
 
 La información de los patrones de diseño la hemos obtenido de [UI Pattern](https://ui-patterns.com). 
 
-+ Registro de usuarios <b>
++ Registro de usuarios
+  
 Patrón Onboarding: Permitirá a los nuevos usuarios guiarse a través del proceso de registro y familiarizarse
 con la plataforma, lo que mejorará la retención y satisfacción del usuario.
 

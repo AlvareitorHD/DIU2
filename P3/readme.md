@@ -13,8 +13,22 @@ La información de los patrones de diseño la hemos obtenido de [UI Pattern](htt
 + Navegación y Contenido
   - NavBar: Proporciona una navegación clara y accesible en todos los dispositivos.
   - Carrusel+Hero Image: Destaca visualmente las recetas para atraer la atención de los usuarios.
-  - Search: Implementado en la busqueda de recetas, permite a los usuarios encontrar rápidamente
+  - Search: En la busqueda de recetas, permite a los usuarios encontrar rápidamente
     aquellas recetas según sus preferencias.
+  - Article List 5-7 Cards Items: PAra el listado de recetas, muestra visualmente una variedad de
+    recetas por descubrir.
+
++ Interacción y Acciones de Usuario
+  - Wizards: En el registro de usuarios, guía a los usuarios a través del proceso de registro y lo
+    familiariza con la plataforma, lo que mejora la retención y satisfacción del usuario.
+  - Item details+actions: En la página de detalles de receta, proporciona detalles y permite a los
+    usuarios tomar acciones, como guardarlas.
+  - Reserva: Para reservar cursos, facilita la reserva a los usuarios.
+
++ Comunicación y Retroalimentación
+  - Form Input: Permite a los usuarios enviar comentarios de manera sencilla y rápida.
+  - About: En la pagina "Acerca de nosotros". Proporciona información relevante sobre la empresa
+    y su equipo, dando una imagen de trnasparencia para aumentar la confianza de los usuarios.
 
 
 ## Mockup: LAYOUT HI-FI

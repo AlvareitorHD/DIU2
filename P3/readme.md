@@ -12,10 +12,9 @@ La información de los patrones de diseño la hemos obtenido de [UI Pattern](htt
 
 + Navegación y Contenido
   - NavBar: Proporciona una navegación clara y accesible en todos los dispositivos.
-  - Carrusel+Hero Image: Destaca visualmente las recetas para atraer la atención de los usuarios. 
-  
-Patrón Onboarding: Permitirá a los nuevos usuarios guiarse a través del proceso de registro y familiarizarse
-con la plataforma, lo que mejorará la retención y satisfacción del usuario.
+  - Carrusel+Hero Image: Destaca visualmente las recetas para atraer la atención de los usuarios.
+  - Search: Implementado en la busqueda de recetas, permite a los usuarios encontrar rápidamente
+    aquellas recetas según sus preferencias.
 
 
 ## Mockup: LAYOUT HI-FI

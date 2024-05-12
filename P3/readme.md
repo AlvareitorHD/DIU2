@@ -15,7 +15,7 @@ La información de los patrones de diseño la hemos obtenido de [UI Pattern](htt
   - Carrusel+Hero Image: Destaca visualmente las recetas para atraer la atención de los usuarios.
   - Search: En la busqueda de recetas, permite a los usuarios encontrar rápidamente
     aquellas recetas según sus preferencias.
-  - Article List 5-7 Cards Items: PAra el listado de recetas, muestra visualmente una variedad de
+  - Article List 5-7 Cards Items: Para el listado de recetas, muestra visualmente una variedad de
     recetas por descubrir.
 
 + Interacción y Acciones de Usuario
@@ -24,6 +24,9 @@ La información de los patrones de diseño la hemos obtenido de [UI Pattern](htt
   - Item details+actions: En la página de detalles de receta, proporciona detalles y permite a los
     usuarios tomar acciones, como guardarlas.
   - Reserva: Para reservar cursos, facilita la reserva a los usuarios.
+  - Event Calendar: Permite  a los usuarios visualizar eventos como los próximos cursos disponibles
+    o cuando se ha reservado un curso, en un calendario. Los usuarios interactúan con el calendario
+    para visualizar detalles de los cursos, registrar su asistencia o reservar.
 
 + Comunicación y Retroalimentación
   - Form Input: Permite a los usuarios enviar comentarios de manera sencilla y rápida.

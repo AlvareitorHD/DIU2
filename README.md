@@ -79,7 +79,7 @@ nuevas experiencias y descubrir nuevos platos y sabores.
 Por otro lado, tenemos a Li Yong, que tiene mucha más soltura con los ordenadores y el manejo de las tecnologías, lo que nos permite comprobar
 si el diseño de nuestra plataforma le resultaría adecuado a gente joven y enérgica.
 
-![Li Yong](P1/persona-to-jpg/Persona%20&%20User%20Journey%20Map_pages-to-jpg-0002.jpg)
+![Li Yong](P1/persona-to-jpg/Persona%20&%20User%20Journey%20Map_pages-to-jpg-0003.jpg)
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
@@ -88,7 +88,7 @@ Maria Antoñieta se encuentra planeando un viaje a Granada cuando le cuentan de 
 reservar un curso, sin tener mucha idea de como funciona nuestra plataforma. Li Yong quiere realizar algún curso de 
 cocina occidental, pero debido a la dificultad del idioma no puede filtrar bien los talleres que desea realizar.
 
-![Maria Antoñieta](P1/persona-to-jpg/Persona%20&%20User%20Journey%20Map_pages-to-jpg-0003.jpg)
+![Maria Antoñieta](P1/persona-to-jpg/Persona%20&%20User%20Journey%20Map_pages-to-jpg-0002.jpg)
 
 ![Li Yong](P1/persona-to-jpg/Persona%20&%20User%20Journey%20Map_pages-to-jpg-0004.jpg)
 

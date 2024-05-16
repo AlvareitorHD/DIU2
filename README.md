@@ -3,7 +3,7 @@ Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: Experiencias gastronómi
 
 ### Repositorio GitHub: https://github.com/AlvareitorHD/DIU2.git
 
-Grupo: DIU2.PizzaConPionono.  Curso: 2023/24 
+Grupo: DIU2_PizzaConPionono.  Curso: 2023/24 
 Updated: 24/04/2024
 
 Proyecto: Cooking From Home
@@ -31,12 +31,11 @@ Miembros
 
 # Proceso de Diseño 
 
-## Paso 1. UX User & Desk Research & Analisis 
+## Paso 1. UX Desk Research & Analisis 
 
 
-![Método UX](img/Competitive.png) **1.a User Reseach Plan**
+![Método UX](img/Competitive.png) **1.a User Research Plan**
 -----
->>>Describe el plan de User Research (cómo se planteas)
 
 El proyecto se centra en un centro de formación que ofrece cursos y talleres de cocina para particulares y profesionales del sector de la hostelería. El objetivo de la investigación es adquirir conocimientos para mejorar el diseño y desarrollo de la plataforma en el ámbito de la gastronomía.
 
@@ -53,6 +52,8 @@ Se estudiarán temas como la utilidad, aprendizaje, eficiencia, memorabilidad, e
 Como stakeholder, se ha tenido experiencia participando en actividades gastronómicas similares, lo que brinda una perspectiva valiosa sobre las necesidades y preferencias de los usuarios. Como diseñador, se cuenta con habilidades para desarrollar un diseño cómodo y atractivo para los usuarios.
 
 Como conclusión, este User Research profundiza en las necesidades y comportamientos de los usuarios en experiencias gastronómicas, ofreciendo insights valiosos para mejorar el diseño, desarrollo y estrategias de marketing de la plataforma. Con un enfoque en la satisfacción del usuario, este estudio es fundamental para el éxito competitivo en el mercado culinario.
+
+[Competitive Analisys PDF](./img/1a_Competitive.png)
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----

@@ -53,8 +53,6 @@ Como conclusión, este User Research profundiza en las necesidades y comportamie
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas
-
 Hemos seleccionado tres aplicaciones para realizar el Competitive Analysis:
 
 - **Granada Cooking**: Ofrece talleres de cocina en Granada con un precio medio de 50€ por taller. Es simple y fácil de reservar actividades, lo que lo hace adecuado para casi cualquier usuario de Granada.
@@ -67,10 +65,15 @@ Hemos elegido estudiar ***Summumm*** debido a la diversidad de servicios y estra
 
 [Competitive_Analysis PDF](./P1/Competitor_Analysis.pdf)
 
-![Método UX](img/Persona.png) 1.c Persona
+![Método UX](img/Persona.png) 1.c Persona && Journey Map
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  
+Hemos seleccionado a estas personas porque representan grupos demográficos variados que nos ofrece perspectivas diversas.
+
+Por un lado, tenemos una visión de una persona poco relacionada con la tecnología y no muy experimentada, María Antoñieta, que nos ayuda
+a ver como pueden desenvolverse las personas mayores al usar nuestra plataforma.
+Por otro lado, tenemos a Li Yong, que tiene mucha más soltura con los ordenadores y el manejo de las tecnologías, lo que nos permite comprobar
+si el diseño de nuestra plataforma le resultaría adecuado a gente joven y enérgica.
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----

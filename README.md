@@ -24,11 +24,6 @@ Miembros
 
 ----- 
 
-
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
-
-
 # Proceso de Diseño 
 
 ## Paso 1. UX Desk Research & Analisis 
@@ -53,6 +48,8 @@ Como stakeholder, se ha tenido experiencia participando en actividades gastronó
 
 Como conclusión, este User Research profundiza en las necesidades y comportamientos de los usuarios en experiencias gastronómicas, ofreciendo insights valiosos para mejorar el diseño, desarrollo y estrategias de marketing de la plataforma. Con un enfoque en la satisfacción del usuario, este estudio es fundamental para el éxito competitivo en el mercado culinario.
 
+[User Research PDF](./P1/User_Research.pdf)
+
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 
@@ -68,7 +65,7 @@ Hemos seleccionado tres aplicaciones para realizar el Competitive Analysis:
 
 Hemos elegido estudiar ***Summumm*** debido a la diversidad de servicios y estrategias de expansión que tienen, pueden atraer tanto a individuos como a empresas, ofreciendo una experiencia más completa y variada. Además, su enfoque profesional puede ajustarse a necesidades complejas, lo que le da una ventaja sobre los otros dos competidores.
 
-[Competitive Analisys PDF](./P1/User_Research.pdf)
+[Competitive_Analysis PDF](./P1/Competitor Analisis[DIU23].pdf)
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----

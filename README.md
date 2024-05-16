@@ -65,7 +65,7 @@ Hemos seleccionado tres aplicaciones para realizar el Competitive Analysis:
 
 Hemos elegido estudiar ***Summumm*** debido a la diversidad de servicios y estrategias de expansión que tienen, pueden atraer tanto a individuos como a empresas, ofreciendo una experiencia más completa y variada. Además, su enfoque profesional puede ajustarse a necesidades complejas, lo que le da una ventaja sobre los otros dos competidores.
 
-[Competitive_Analysis PDF](./P1/Competitor%20Analisis.pdf)
+[Competitive_Analysis PDF](./P1/Competitor_Analisis.pdf)
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----

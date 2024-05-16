@@ -14,8 +14,9 @@ Nuestra plataforma ofrece una experiencia única para todos los entusiastas de l
 Propuesta de Valor:
 Con nuestra plataforma de cursos de cocina en línea descubrirás una nueva forma de acceder a recetas exclusivas. Tendrás la posibilidad de dominar nuevas habilidades culinarias y aprender de los mejores chefs de toda España, y todo desde el confort de tu hogar. Únete ahora y comienza a crear platos extraordinarios.
 
-Logotipo: 
-<img src="./P3/logo_diu_central.png" alt="Logo" width="100"/>
+Logotipo:
+
+<img src="./P3/logo_diu_central.png" alt="Logo" width="200"/>
 
 Miembros
  * :bust_in_silhouette:   Álvaro Ruiz Luzón     :octocat:     

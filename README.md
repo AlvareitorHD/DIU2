@@ -71,7 +71,11 @@ Hemos elegido estudiar ***Summumm*** debido a la diversidad de servicios y estra
 Hemos seleccionado a estas personas porque representan grupos demográficos variados que nos ofrece perspectivas diversas.
 
 Por un lado, tenemos una visión de una persona poco relacionada con la tecnología y no muy experimentada, María Antoñieta, que nos ayuda
-a ver como pueden desenvolverse las personas mayores al usar nuestra plataforma.
+a ver como pueden desenvolverse las personas mayores al usar nuestra plataforma. Maria Antoñieta es una señora mayor que quiere probar
+nuevas experiencias y descubrir nuevos platos y sabores.
+
+![Maria Antoñieta](P1/persona-to-jpg/Persona%20&%20User%20Journey%20Map_pages-to-jpg-0001.jpg)
+
 Por otro lado, tenemos a Li Yong, que tiene mucha más soltura con los ordenadores y el manejo de las tecnologías, lo que nos permite comprobar
 si el diseño de nuestra plataforma le resultaría adecuado a gente joven y enérgica.
 

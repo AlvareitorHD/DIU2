@@ -65,7 +65,7 @@ Hemos elegido estudiar ***Summumm*** debido a la diversidad de servicios y estra
 
 [Competitive_Analysis PDF](./P1/Competitor_Analysis.pdf)
 
-![Método UX](img/Persona.png) 1.c Persona && Journey Map
+![Método UX](img/Persona.png) 1.c Persona
 -----
 
 Hemos seleccionado a estas personas porque representan grupos demográficos variados que nos ofrece perspectivas diversas.
@@ -79,11 +79,18 @@ nuevas experiencias y descubrir nuevos platos y sabores.
 Por otro lado, tenemos a Li Yong, que tiene mucha más soltura con los ordenadores y el manejo de las tecnologías, lo que nos permite comprobar
 si el diseño de nuestra plataforma le resultaría adecuado a gente joven y enérgica.
 
+![Li Yong](P1/persona-to-jpg/Persona%20&%20User%20Journey%20Map_pages-to-jpg-0002.jpg)
+
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
 
+Maria Antoñieta se encuentra planeando un viaje a Granada cuando le cuentan de nuestros cursos de cocina y se aventura a 
+reservar un curso, sin tener mucha idea de como funciona nuestra plataforma. Li Yong quiere realizar algún curso de 
+cocina occidental, pero debido a la dificultad del idioma no puede filtrar bien los talleres que desea realizar.
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) 
+![Maria Antoñieta](P1/persona-to-jpg/Persona%20&%20User%20Journey%20Map_pages-to-jpg-0003.jpg)
+
+![Li Yong](P1/persona-to-jpg/Persona%20&%20User%20Journey%20Map_pages-to-jpg-0004.jpg)
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----

@@ -99,7 +99,7 @@ Proceso de evaluación de la página web Granada Cooking, donde comprobamos dife
 
 La puntuación final es de 68-Moderada, lo que indica que los usuarios pueden completar la mayoría de las tareas importantes, aunque la experiencia podría modificarse considerablemente.
 
-![Usability Review PDF](P1/Usability-review-Valoracion%20Usabilidad.pdf)
+![Usability Review PDF](P1/Usability-review-Valoración%20Usabilidad.pdf)
 
 Como valoración de la práctica, podemos concluir que los tiempos de carga son bastante largos, y la funcionalidad del calendario y las horas disponibles presentan fallos, que deben ser abordados para mejorar la eficacia de la página.
 

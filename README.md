@@ -112,6 +112,8 @@ Hemos realizado un mapa de empatía de la plataforma Granada Cooking, donde sint
 
 Gracias a este estudio, podemos plantearnos mejorar la funcionalidad del calendario y los horarios, entre otros.
 
+![Empathy Map](P2/mapaempatia.png)
+
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
 

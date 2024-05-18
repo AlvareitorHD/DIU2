@@ -94,38 +94,34 @@ cocina occidental, pero debido a la dificultad del idioma no puede filtrar bien 
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
 
+Proceso de evaluación de la página web Granada Cooking, donde comprobamos diferentes puntos y si debería de mejorarlos. En dicho estudio evaluamos diferentes apartados, como lo son la funcionalidad, la navegación la búsqueda o el rendimiento de la página.
+
+La puntuación final es de 68-Moderada, lo que indica que los usuarios pueden completar la mayoría de las tareas importantes, aunque la experiencia podría modificarse considerablemente.
+
+![Usability Review PDF](P1/Usability-review-Valoracion%20Usabilidad.pdf)
+
+Como valoración de la práctica, podemos concluir que los tiempos de carga son bastante largos, y la funcionalidad del calendario y las horas disponibles presentan fallos, que deben ser abordados para mejorar la eficacia de la página.
 
 ## Paso 2. UX Design  
 
-
-![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
+![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid / Empathy map 
 ----
 
+Hemos realizado un mapa de empatía de la plataforma Granada Cooking, donde sintetizamos los aspectos más destacados obtenidos por los usuarios (y por nuestra propia experiencia) de la práctica anterior, lo que nos permitirá abordar de una mejor manera el diseño de nuestra plataforma.
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
-
-
+Gracias a este estudio, podemos plantearnos mejorar la funcionalidad del calendario y los horarios, entre otros.
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+
+### Propuesta de valor
+
+Con nuestra plataforma los usuarios descubrirán una nueva forma de acceder a recetas exclusivas, y tendrán la posibilidad de dominar nuevas técnicas culinarias y aprender de los mejores chefs de toda España. Por supuesto, todo esto desde el confort de su hogar.
+
+Para complementar la propuesta de valor hemos creado un LeanUX Canvas
+
+![Scope Canvas PNG](P2/scope_canvas.png)
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----

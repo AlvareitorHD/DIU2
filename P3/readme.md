@@ -1,11 +1,11 @@
 # DIU - Practica 3, entregables
 
 ## Moodboard (diseño visual + logotipo)   
-
+![Moodboard](Moodboard.pdf)
 
 
 ## Landing Page
-
+![Landing page](Landing_page.jpg)
 ## Guidelines
 
 La información de los patrones de diseño la hemos obtenido de [UI Pattern](https://ui-patterns.com). 
@@ -35,7 +35,7 @@ La información de los patrones de diseño la hemos obtenido de [UI Pattern](htt
 
 
 ## Mockup: LAYOUT HI-FI
-
+En este link se puede ver el Prototype en acción: [LINK](https://www.figma.com/proto/mN3goO6CiMiPbof7fDYymf/Wireframes?node-id=72-30&t=Qh9vmQpLcjog7CdG-1&scaling=min-zoom&page-id=63%3A2&starting-point-node-id=82%3A129)
 
 ## Documentación: Publicación del Case Study
 

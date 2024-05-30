@@ -223,22 +223,18 @@ Resultados y valoración
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
-
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+El caso asignado es la evaluación del proyecto <em>L de Lectura</em>. Se trata de una plataforma que te permite participar en clubes de lectura, donde puedes realizar lecturas de libros y realizar actividades. En el apartado de lecturas podemos encontrar cada uno de los libros disponibles, así como las valoraciones que poseen. En el partado de actividades se encuentran las reuniones que se realizan para cada lectura de un libro, así como los comentarios de los asistentes.
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
-
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Carmen  | M / 37   | Ama Casa  | Media       | Extrovertido | Móvil       | A 
+| Manuel  | H / 67   | Jubilado  | Baja       | Introvertido       | Windows        | A 
+| Jaime  | H / 21   | Estudiante     | Alta        | Timido    |Linux      | B 
+| Esteban  | H / 27   | Abogado  | Media       | Racional     |Móvil        | B 
 
 
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS

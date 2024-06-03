@@ -8,11 +8,19 @@ Lista de grupos
 ## Asignación del caso B
 Se nos ha asignado el grupo **DIU3.DTR**. Link del GitHub: https://github.com/Duva-01/DIU.DTR
 
+## A/B Testing
+
 * Users 
 
-Elección y características
+Los usuarios elegidos han sido creados mediante la combinación de características de Role Play y usuarios de nuestro entorno.
 
-## A/B Testing
+| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
+| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
+| Carmen  | M / 37   | Ama Casa  | Media       | Extrovertido | Móvil       | A 
+| Manuel  | H / 67   | Jubilado  | Baja       | Introvertido       | Windows        | A 
+| Jaime  | H / 21   | Estudiante     | Alta        | Timido    |Linux      | B 
+| Esteban  | H / 27   | Abogado  | Media       | Racional     |Móvil        | B 
+
 ### Eye Tracking 
 Este estudio de eye tracking se llevó a cabo para analizar el comportamiento visual de los usuarios mientras realizan dos tareas diferentes en dos plataformas distintas. Las tareas son:
 
@@ -25,7 +33,7 @@ Los objetivos de este estudio son:
 * Analizar patrones de fijación y movimientos oculares.
 * Evaluar la usabilidad de las plataformas en función del comportamiento visual de los usuarios.
 
-Los participantes somos los dos integrantes del grupo que, mediante el uso de la herramienta ***Gaze Recorder*** y 30 segundos de test hemos realizado las tareas.
+Los participantes han probado las tareas a evaluar que, mediante el uso de la herramienta ***Gaze Recorder*** y 30 segundos de test hemos realizado las tareas. Vamos a ver dos pruebas:
 
 - **Tarea A: Participar en un curso de Cocina**:
 

@@ -5,11 +5,14 @@
 Revisar [Asignacion_ABtesting](https://github.com/mgea/DIU/blob/master/P4/Asignacion_ABtesting.pdf)
 Lista de grupos 
 
+## Asignación del caso B
+Se nos ha asignado el grupo **DIU3.DTR**. Link del GitHub: https://github.com/Duva-01/DIU.DTR
+
 * Users 
 
 Elección y características
 
-## A/B Testing. 
+## A/B Testing
 ### Eye Tracking 
 Este estudio de eye tracking se llevó a cabo para analizar el comportamiento visual de los usuarios mientras realizan dos tareas diferentes en dos plataformas distintas. Las tareas son:
 
@@ -60,7 +63,13 @@ Una vez participando en el curso mediante el chat, los AOI demuestran que el usu
 
 #### Resultados del Eye Tracking de la tarea B:
 
+En el inicio detectamos AOI tanto en el título de la sección como en los iconos de navegación de abajo (en el heatmap hay un poco de imprecisión). El uso de imágenes captan más o menos la atención del usuario.
 
+En la sección de ***Lecturas*** tenemos varios AOI en el título y en los primeros cards de libros.
+
+En la portada del libro captamos un AOI en su derecha, dando la impresión de buscar algo abajo a la derecha para más información o seguir navegando.
+
+Cuando scrolleamos para leer la descripción y comentarios se consigue captar la atención, ya que se muestran varios AOI leves en la descripción y uno fuerte en los labels de comentarios.
 
 ## Usability Report de Caso B
 * Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 

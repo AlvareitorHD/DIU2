@@ -52,8 +52,8 @@ Hemos realizado un estudio de eyetracking donde hemos instruido a los usuarios s
 Los resultados de los cuestionarios reflejan una clara diferencia entre los usuarios para la aplicación A, tan vez debido a la poca experiencia y la avanzada edad que tiene uno de los sujetos.<br>
 Por otro lado, vemos una mayor cercanía con respecto a las valoraciones de la aplicación B, ya que se trata de sujetos jóvenes con mayor experiencia con el uso de las TICs.
 
-* Consulte de forma más detallada los [Cuestionarios SUS](./P4/SUS_Cuestionaries.jpg)
-* Consulte de forma más detallada sobre el eyetracking en el [readme](./P4/readme.md)
+* Consulte de forma más detallada los [Cuestionarios SUS](./SUS_Cuestionaries.jpg)
+* Consulte de forma más detallada sobre el eyetracking en el [readme](./readme.md)
 
 ## 4 CONCLUSIONES 
 

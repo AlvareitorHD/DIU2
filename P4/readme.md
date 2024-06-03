@@ -1,10 +1,5 @@
 # DIU - Practica 4, entregables
 
-
-
-Revisar [Asignacion_ABtesting](https://github.com/mgea/DIU/blob/master/P4/Asignacion_ABtesting.pdf)
-Lista de grupos 
-
 ## Asignación del caso B
 Se nos ha asignado el grupo **DIU3.DTR**. Link del GitHub: https://github.com/Duva-01/DIU.DTR
 
@@ -80,6 +75,14 @@ En la portada del libro captamos un AOI en su derecha, dando la impresión de bu
 Cuando scrolleamos para leer la descripción y comentarios se consigue captar la atención, ya que se muestran varios AOI leves en la descripción y uno fuerte en los labels de comentarios.
 
 ## Usability Report de Caso B
-* Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
+
+El informe de usabilidad para la aplicación "L de Lectura" revela tanto aspectos positivos como áreas de mejora. La aplicación, diseñada para fomentar la lectura y el debate sobre libros, presenta una interfaz de usuario sencilla y una paleta de colores relajante, lo cual favorece la lectura. Sin embargo, un problema significativo es la barra de navegación, que permanece estática en una posición incómoda durante el desplazamiento, dificultando la visibilidad y la navegación de los usuarios.
+
+Los resultados de los tests de usabilidad, que involucraron a usuarios de diferentes perfiles, resaltaron la necesidad de mejorar la intuición y accesibilidad de la plataforma, especialmente para aquellos con menos experiencia en tecnología. Las técnicas utilizadas, como los estudios de eyetracking y los cuestionarios SUS, fueron útiles para identificar estas deficiencias y proponer soluciones, como ajustar la posición de la barra de navegación y simplificar la interfaz, lo cual se espera que mejore significativamente la experiencia del usuario.
 
 ## Conclusiones
+
+El estudio de eye tracking realizado revela patrones de comportamiento visual de los usuarios al interactuar con dos tareas diferentes en dos plataformas distintas. Para la tarea A, participar en un curso de cocina, se observó una atención destacada en el carrusel de la página de inicio y en el botón de "Participar" en el chat del curso. En cambio, para la tarea B, consultar información sobre un libro de Harry Potter, se encontró una mayor atención en los títulos de secciones y en la descripción del libro. Estos resultados ofrecen una visión detallada de cómo los usuarios interactúan con la interfaz y qué elementos captan su atención.
+
+
+El análisis de usabilidad de la aplicación "L de Lectura" reveló tanto puntos favorables como áreas de oportunidad. Mientras que la interfaz simple y la paleta de colores relajante promueven una experiencia de lectura agradable, la barra de navegación estática resulta incómoda al desplazarse, afectando la experiencia del usuario. Los métodos de evaluación, incluyendo el eyetracking y los cuestionarios SUS, fueron efectivos para identificar problemas y proponer soluciones, como ajustar la ubicación de la barra de navegación y simplificar la interfaz, con el fin de mejorar la experiencia general del usuario en la plataforma.

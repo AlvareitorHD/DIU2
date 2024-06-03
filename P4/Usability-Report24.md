@@ -6,7 +6,7 @@
 
 ### 28/05/2024
 
-[L de Lectura](./P4/logo.png)
+[L de Lectura](./logo.png)
 
 [Enlace a GITHUB del proyecto](https://github.com/Duva-01/DIU.DTR)
 

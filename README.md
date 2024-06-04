@@ -186,36 +186,6 @@ Término | Significado
 >>> Documente y resuma el diseño de su producto
 
 
-## Paso 5. Exportación & evaluación con Eye Tracking 
-
-Exportación a HTML/Flutter
------
-
-![Método UX](img/eye-tracking.png))  5.b Eye Tracking method 
-
->>> Indica cómo diseñas experimento y reclutas usuarios (uso de gazerecorder.com)  
-
-Diseño del experimento 
-----
-
->> Uso de imágenes (preferentemente) -> hay que esablecer una duración de visualización y  
->> fijar las áreas de interes (AoI) antes del diseño. Planificar qué tarea debe hacer el usuario (buscar, comprar...) 
-
-
-![experimento](img/experimentoET.png)  
->> cambiar img por tu diseño de experimento  
-
->> Recordar que gazerecorder es una versión de pruebas: usar sólo con 3 usuarios para generar mapa de calor (recordar que crédito > 0 para que funcione) 
-
-Resultados y valoración 
------
-
-
-
->> Cambiar por tus resultados
-![Resultado](img/resultadoET.png)  
-
-
 
 ## Paso 4. Evaluación 
 
@@ -278,6 +248,36 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 >>> (90-150 palabras) Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
 
+
+
+## Paso 5. Exportación & evaluación con Eye Tracking 
+
+Exportación a HTML/Flutter
+-----
+
+![Método UX](img/eye-tracking.png))  5.b Eye Tracking method 
+
+>>> Indica cómo diseñas experimento y reclutas usuarios (uso de gazerecorder.com)  
+
+Diseño del experimento 
+----
+
+>> Uso de imágenes (preferentemente) -> hay que esablecer una duración de visualización y  
+>> fijar las áreas de interes (AoI) antes del diseño. Planificar qué tarea debe hacer el usuario (buscar, comprar...) 
+
+
+![experimento](img/experimentoET.png)  
+>> cambiar img por tu diseño de experimento  
+
+>> Recordar que gazerecorder es una versión de pruebas: usar sólo con 3 usuarios para generar mapa de calor (recordar que crédito > 0 para que funcione) 
+
+Resultados y valoración 
+-----
+
+
+
+>> Cambiar por tus resultados
+![Resultado](img/resultadoET.png)  
 
 
 

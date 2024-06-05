@@ -88,6 +88,10 @@ En la portada del libro captamos un AOI en su derecha, dando la impresión de bu
 
 Cuando scrolleamos para leer la descripción y comentarios se consigue captar la atención, ya que se muestran varios AOI leves en la descripción y uno fuerte en los labels de comentarios.
 
+## Test SUS (System Usability Scale)
+Esta herramienta nos ayudará a medir la evaluación de las dos plataformas
+El cuestionario SUS consta de 10 ítems con opciones de respuesta en una escala de 5 puntos, que van desde "Totalmente en desacuerdo" hasta "Totalmente de acuerdo". Las preguntas están diseñadas para capturar una visión general de la usabilidad del sistema.
+
 ## Usability Report de Caso B
 
 El informe de usabilidad para la aplicación "L de Lectura" revela tanto aspectos positivos como áreas de mejora. La aplicación, diseñada para fomentar la lectura y el debate sobre libros, presenta una interfaz de usuario sencilla y una paleta de colores relajante, lo cual favorece la lectura. Sin embargo, un problema significativo es la barra de navegación, que permanece estática en una posición incómoda durante el desplazamiento, dificultando la visibilidad y la navegación de los usuarios.

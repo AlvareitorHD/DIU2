@@ -87,6 +87,8 @@ El informe de usabilidad para la aplicación "L de Lectura" revela tanto aspecto
 
 Los resultados de los tests de usabilidad, que involucraron a usuarios de diferentes perfiles, resaltaron la necesidad de mejorar la intuición y accesibilidad de la plataforma, especialmente para aquellos con menos experiencia en tecnología. Las técnicas utilizadas, como los estudios de eyetracking y los cuestionarios SUS, fueron útiles para identificar estas deficiencias y proponer soluciones, como ajustar la posición de la barra de navegación y simplificar la interfaz, lo cual se espera que mejore significativamente la experiencia del usuario.
 
+El Usability Report para el Caso B completo se eneuntra en el archivo [Usability-Report.md](Usabilty-Report24.md).
+
 ## Conclusiones
 
 El estudio de eye tracking realizado revela patrones de comportamiento visual de los usuarios al interactuar con dos tareas diferentes en dos plataformas distintas. Para la tarea A, participar en un curso de cocina, se observó una atención destacada en el carrusel de la página de inicio y en el botón de "Participar" en el chat del curso. En cambio, para la tarea B, consultar información sobre un libro de Harry Potter, se encontró una mayor atención en los títulos de secciones y en la descripción del libro. Estos resultados ofrecen una visión detallada de cómo los usuarios interactúan con la interfaz y qué elementos captan su atención.

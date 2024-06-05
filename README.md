@@ -134,6 +134,48 @@ Para complementar la propuesta de valor hemos creado un LeanUX Canvas
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
+Esta es el labelling:
+
+| **LABEL**                    | **SCOPE**                                                                                     | **NOTES**                                                                                               |
+|------------------------------|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| Inicio                       | Puerta de entrada a la plataforma                                                             | Donde se destacan los puntos clave para animar a los usuario a explorar                                  |
+| Tipos de cursos              | Podrá seleccionarse el tipo de curso que se desea hacer (mexicano, italiano,...)               |                                                                                                         |
+| Sobre Nosotros               | Ofrecemos una visión de nuestra plataforma                                                    | Su historia y objetivos                                                                                 |
+| Recetas                      | Sección donde ofrecemos una amplia variedad de recetas para disfrutar                         |                                                                                                         |
+| Cursos                       | Ofrece una selección de cursos para todos los niveles                                         | Desde principiantes hasta chefs experimentados                                                          |
+| Cuenta                       | Los usuarios podrán acceder a sus cuentas personales                                          | Desde donde administrarán su perfil y guardarán recetas                                                 |
+| Ayuda                        | Página donde el usuario podrá obtener ayuda                                                   |                                                                                                         |
+| Cursos premium               | Los usuarios premium tendrán la posibilidad de realizar cursos premium                        | Con chefs experimentados como guías                                                                     |
+| FAQ                          | Apartado con preguntas frecuentes de los usuarios de la web                                   |                                                                                                         |
+| Términos y condiciones       | Apartado con finalidad informativa de las políticas de la web                                 |                                                                                                         |
+| Detalles Receta              | Ofrece una información más detallada de la receta seleccionada                                |                                                                                                         |
+| Guardar Receta               | El usuario guarda la receta en su cuenta para acceder a ella más fácilmente                   |                                                                                                         |
+| Explorar Recetas             | Un buscador para encontrar las recetas más rápido                                             |                                                                                                         |
+| Tutoriales                   | Pequeños tutoriales para ayudar a los usuarios con sus recetas                                |                                                                                                         |
+| Recetas Premium              | Aquellas recetas a las que solo los usuarios premium pueden acceder                           |                                                                                                         |
+| Recetas Guardadas            | Recetas guardadas por el usuario                                                              |                                                                                                         |
+| Buscar cursos                | Página donde se buscará un determinado curso                                                  |                                                                                                         |
+| Calificar Receta             | El usuario podrá calificar la receta                                                          |                                                                                                         |
+| Mis cursos                   | Página que muestra los cursos del usuario                                                     |                                                                                                         |
+| Terminados                   | Muestra los cursos terminados                                                                 |                                                                                                         |
+| Descargar Receta             | El usuario podrá descargar una receta                                                         |                                                                                                         |
+| En curso                     | Muestra los cursos en curso                                                                   |                                                                                                         |
+| Calificar curso              | El usuario podrá calificar un curso                                                           |                                                                                                         |
+| Descargar curso              | El usuario podrá descargar un curso                                                           |                                                                                                         |
+| Participar en clase          | El usuario podrá participar durante los cursos realizando comentarios                         |                                                                                                         |
+| Detalles Curso               | Página que ofrece una información más detallada sobre el curso                                |                                                                                                         |
+| Inscribirse                  | Permite a los usuarios inscribirse en un curso                                                |                                                                                                         |
+| Iniciar Sesión               | Página donde el usuario podrá iniciar sesión si tenía una cuenta previa                       |                                                                                                         |
+| Registrarse                  | Página donde el usuario podrá registrarse si no tenía una cuenta previa                       |                                                                                                         |
+| Historial de recetas y cursos| Página que ofrece información sobre el historial de recetas y cursos accedidos por el usuario |                                                                                                         |
+| Administrar perfil           | Página que permite al usuario a administrar su perfil                                         |                                                                                                         |
+| Subscribirse a premium       | Página donde el usuario podrá suscribirse a premium                                           |                                                                                                         |
+| Soporte premium              | Página que ofrece un soporte más detallado                                                    | Permitiendo ponerse en contacto con un operador para su ayuda                                           |
+| Calificaciones               | Página que recoge todas las calificaciones proporcionadas por el usuario                      |                                                                                                         |
+| Centro de ayuda              | Página que ofrece ayuda sobre la aplicación web                                               |                                                                                                         |
+| Guía de uso                  | Página que ofrece una guía sobre el uso de la aplicación                                      |                                                                                                         |
+| Cambiar contraseña           | Permite al usuario cambiar la contraseña de su cuenta                                         |                                                                                                         |
+
 
 >>> Identificar términos para diálogo con usuario  
 

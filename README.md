@@ -131,10 +131,18 @@ Para complementar la propuesta de valor hemos creado un LeanUX Canvas
 >>> Definir "User Map" y "Task Flow" ... 
 
 
-![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
+![Método UX](img/labelling.png) 2.c Sitemap + Labelling 
 ----
+#### SiteMap (Mapa de sitio)
+Es una representación estructurada de las páginas y contenido dentro de un sitio web o aplicación. Sirve como una guía para entender la organización y la jerarquía de la información.
+Vamos a definir la navegabilidad y la indexación de nuestra plataforma, beneficiando la experiencia de los usuarios.
 
-Esta es el labelling:
+![sitemap](P2/sitemap.jpg)
+
+#### Labelling
+El proceso de asignar nombres claros y descriptivos a los elementos de una interfaz de usuario, como menús, botones y enlaces. Su objetivo es mejorar la usabilidad y la comprensión del usuario al proporcionar indicaciones precisas y coherentes sobre la función de cada elemento.
+
+El labelling de nuestra plataforma es la tabla siguiente:
 
 | **LABEL**                    | **SCOPE**                                                                                     | **NOTES**                                                                                               |
 |------------------------------|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
@@ -176,14 +184,6 @@ Esta es el labelling:
 | Guía de uso                  | Página que ofrece una guía sobre el uso de la aplicación                                      |                                                                                                         |
 | Cambiar contraseña           | Permite al usuario cambiar la contraseña de su cuenta                                         |                                                                                                         |
 
-
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
-
-
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
@@ -192,42 +192,48 @@ Término | Significado
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
-
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
+Para el diseño visual de nuestra aplicación "Cooking From Home", hemos creado un moodboard que incluye una paleta de colores split-complementary (rojo, morado oscuro, verde y naranja) para evocar sensaciones variadas y atractivas. Utilizamos tipografías elegantes como "Anybody" y "Crimson Text" para dar una sensación de sofisticación y autenticidad. También hemos diseñado iconos específicos para recetas, cursos y comunidad, que serán utilizados a lo largo del diseño de los layouts.
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+El logotipo fue creado utilizando la herramienta Logolab, asegurándonos de que funcione en diferentes tamaños y resoluciones. Se ha diseñado en una versión horizontal para una mejor adaptación en pantallas y cabeceras, y puede ser utilizado como imagen de cabecera en Twitter y otras plataformas.
 
+![Método UX](img/landing-page.png) 3.b Landing Page
+-----
 
-![Método UX](img/landing-page.png)  3.b Landing Page
-----
-
-
->>> Plantear Landing Page 
+La landing page es crucial para captar la atención de los usuarios y convencerlos de descargar nuestra aplicación. Hemos diseñado una landing page atractiva y funcional, utilizando los componentes definidos en el moodboard. Nuestro eslogan destaca la autenticidad y calidad de los productos ofrecidos, mientras que el diseño visual capta el interés del usuario y le invita a explorar más sobre nuestra plataforma.
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
-----
+-----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Tras documentarnos en [UI Patterns](https://ui-patterns.com), hemos decidido los patrones de diseño a utilizar:
 
-![Método UX](img/mockup.png)  3.d Mockup
-----
++ **Navegación y Contenido:**
+  - **NavBar:** Navegación clara y accesible en todos los dispositivos.
+  - **Carrusel + Hero Image:** Destaca visualmente las recetas.
+  - **Search:** Permite a los usuarios encontrar recetas según sus preferencias.
+  - **Article List (5-7 Cards Items):** Muestra una variedad de recetas.
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
++ **Interacción y Acciones de Usuario:**
+  - **Wizards:** Guía a los usuarios a través del registro y familiarización con la plataforma.
+  - **Item details + actions:** Proporciona detalles y permite acciones en la página de recetas.
+  - **Reserva:** Facilita la reserva de cursos.
+  - **Event Calendar:** Visualiza eventos como cursos disponibles en un calendario interactivo.
 
++ **Comunicación y Retroalimentación:**
+  - **Form Input:** Permite a los usuarios enviar comentarios fácilmente.
+  - **About:** Proporciona información relevante sobre la empresa y su equipo.
+
+![Método UX](img/mockup.png) 3.d Mockup
+-----
+
+Hemos desarrollado el diseño high-fidelity de nuestra aplicación. Comienza con una pantalla de bienvenida, seguida de un formulario para registro o inicio de sesión. La primera sección presentada es el inicio, mostrando los últimos cursos y recetas publicados. El menú de navegación en la parte inferior permite cambiar entre las principales secciones. En este [link](https://www.figma.com/proto/mN3goO6CiMiPbof7fDYymf/Wireframes?node-id=72-30&t=Qh9vmQpLcjog7CdG-1&scaling=min-zoom&page-id=63%3A2&starting-point-node-id=82%3A129) se puede ver el Prototype en acción.
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto
-
-
+El Case Study documenta y resume el diseño de nuestro producto, proporcionando una visión detallada del proceso de desarrollo. Hemos publicado el Case Study en Github para que sea accesible a todos y comprensible incluso para aquellos no familiarizados con este tipo de prácticas. A continuación, se puede visualizar el [Case Study](../README.md).
 
 ## Paso 4. Evaluación 
 

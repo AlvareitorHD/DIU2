@@ -59,7 +59,7 @@ Hemos realizado un estudio de eyetracking donde hemos instruido a los usuarios s
 
 #### Resultados del Eye Tracking de la tarea B:
 
-En el inicio detectamos AOI tanto en el título de la sección como en los iconos de navegación de abajo (en el heatmap hay un poco de imprecisión). El uso de imágenes captan más o menos la atención del usuario.
+En el inicio detectamos AOI (Areas Of Interest) tanto en el título de la sección como en los iconos de navegación de abajo (en el heatmap hay un poco de imprecisión). El uso de imágenes captan más o menos la atención del usuario.
 
 En la sección de ***Lecturas*** tenemos varios AOI en el título y en los primeros cards de libros.
 

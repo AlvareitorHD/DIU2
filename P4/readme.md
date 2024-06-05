@@ -69,8 +69,17 @@ Cuando accedemos al curso, el botón de ***Participar*** consigue una gran atenc
 Una vez participando en el curso mediante el chat, los AOI demuestran que el usuario lee desde arriba hasta abajo terminando en la imagen de nuestro texto. El uso de un chat vertical demuestra que el usuario da importancia al orden y de lo que él escribe o tiene como imagen de perfil a la hora de relacionarse con el resto de alumnos del curso.
 
 ## Test SUS (System Usability Scale)
-Esta herramienta nos ayudará a medir la evaluación de las dos plataformas
+
+Esta herramienta nos ayudará a medir la evaluación de las dos plataformas en cuanto a usabilidad. Para ello, haremos que los usuarios del estudio constenten a un cuestionario con pocas preguntas.
 El cuestionario SUS consta de 10 ítems con opciones de respuesta en una escala de 5 puntos, que van desde "Totalmente en desacuerdo" hasta "Totalmente de acuerdo". Las preguntas están diseñadas para capturar una visión general de la usabilidad del sistema.
+
+Las puntuaciones resultantes son las siguientes:
+![sus](SUS_Cuestionaries.jpg)
+Resultados junto a la métrica de SUS-Score y Valoración final.
+
+### Resultados del test SUS
+- La plataforma **A** (la nuestra) ha obtenido una puntuación media de 60/100, lo que deja un SUS Score de OK según la escala adjetiva. La valoración final deja un **Grade D (MARGINAL)**.
+- La plataforma **B** ha obtenido una puntuación media de 67/100, lo que deja un SUS Score de OK según la escala adjetiva y Passive en la escala NPS. La valoración final deja un Grade C **(ACCEPTABLE)**.
 
 ## Usability Report de Caso B
 

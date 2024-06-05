@@ -68,6 +68,11 @@ Cuando accedemos al curso, el botón de ***Participar*** consigue una gran atenc
 
 Una vez participando en el curso mediante el chat, los AOI demuestran que el usuario lee desde arriba hasta abajo terminando en la imagen de nuestro texto. El uso de un chat vertical demuestra que el usuario da importancia al orden y de lo que él escribe o tiene como imagen de perfil a la hora de relacionarse con el resto de alumnos del curso.
 
+- **Tarea B: Consultar la información de un libro de Harry Potter**:
+
+El estudio de Eye Tracking del caso B está dentro del documento de investigación del Usabilty Report del mencionado caso B. Puede verlo [aquí](Usability-Report24.md).
+
+
 ## Test SUS (System Usability Scale)
 
 Esta herramienta nos ayudará a medir la evaluación de las dos plataformas en cuanto a usabilidad. Para ello, haremos que los usuarios del estudio constenten a un cuestionario con pocas preguntas.
@@ -87,7 +92,7 @@ El informe de usabilidad para la aplicación "L de Lectura" revela tanto aspecto
 
 Los resultados de los tests de usabilidad, que involucraron a usuarios de diferentes perfiles, resaltaron la necesidad de mejorar la intuición y accesibilidad de la plataforma, especialmente para aquellos con menos experiencia en tecnología. Las técnicas utilizadas, como los estudios de eyetracking y los cuestionarios SUS, fueron útiles para identificar estas deficiencias y proponer soluciones, como ajustar la posición de la barra de navegación y simplificar la interfaz, lo cual se espera que mejore significativamente la experiencia del usuario.
 
-El Usability Report para el Caso B completo se eneuntra en el archivo [Usability-Report.md](Usabilty-Report24.md).
+El Usability Report para el Caso B completo se eneuntra en el archivo [Usability-Report.md](Usability-Report24.md).
 
 ## Conclusiones
 

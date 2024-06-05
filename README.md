@@ -256,4 +256,9 @@ El análisis de usabilidad de la aplicación "L de Lectura" reveló tanto puntos
 
 
 # Conclusión final / Valoración de las prácticas
->>> (90-150 palabras) Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+
+El proceso de desarrollo de diseño siguiendo la metodología UX ha sido una experiencia enriquecedora y reveladora. A lo largo de las prácticas, hemos podido aplicar diversas técnicas y herramientas que nos han permitido comprender mejor las necesidades y comportamientos de nuestros usuarios. Desde la investigación inicial hasta las evaluaciones de usabilidad, cada etapa ha contribuido a mejorar y refinar nuestra plataforma "Cooking From Home".
+
+La valoración general del proceso es muy positiva. Hemos logrado identificar y abordar puntos críticos que afectan la experiencia del usuario, lo que ha resultado en una interfaz más intuitiva y accesible. Las técnicas como el uso de cuestionarios SUS y los estudios de eyetracking han sido especialmente útiles para obtener insights profundos y accionables.
+
+El resultado final es una plataforma que no solo cumple con los objetivos de negocio, sino que también ofrece una experiencia de usuario óptima, lo que esperamos se traduzca en una mayor satisfacción y participación de nuestros usuarios. En resumen, estas prácticas han demostrado ser fundamentales para el desarrollo de un producto competitivo y centrado en el usuario.

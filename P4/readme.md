@@ -68,26 +68,6 @@ Cuando accedemos al curso, el botón de ***Participar*** consigue una gran atenc
 
 Una vez participando en el curso mediante el chat, los AOI demuestran que el usuario lee desde arriba hasta abajo terminando en la imagen de nuestro texto. El uso de un chat vertical demuestra que el usuario da importancia al orden y de lo que él escribe o tiene como imagen de perfil a la hora de relacionarse con el resto de alumnos del curso.
 
-- **Tarea B: Consultar información de un libro de Harry Potter**:
-
-![inicio de la app](eyetracking/f1.jpg)Inicio de la App
-
-![seccion lecturas](eyetracking/f2.jpg)Sección de Lecturas
-
-![harry potter](eyetracking/f3.jpg)Detalles del libro
-
-![descripcion del libro](eyetracking/f4.jpg)Descripción y comentarios
-
-#### Resultados del Eye Tracking de la tarea B:
-
-En el inicio detectamos AOI tanto en el título de la sección como en los iconos de navegación de abajo (en el heatmap hay un poco de imprecisión). El uso de imágenes captan más o menos la atención del usuario.
-
-En la sección de ***Lecturas*** tenemos varios AOI en el título y en los primeros cards de libros.
-
-En la portada del libro captamos un AOI en su derecha, dando la impresión de buscar algo abajo a la derecha para más información o seguir navegando.
-
-Cuando scrolleamos para leer la descripción y comentarios se consigue captar la atención, ya que se muestran varios AOI leves en la descripción y uno fuerte en los labels de comentarios.
-
 ## Test SUS (System Usability Scale)
 Esta herramienta nos ayudará a medir la evaluación de las dos plataformas
 El cuestionario SUS consta de 10 ítems con opciones de respuesta en una escala de 5 puntos, que van desde "Totalmente en desacuerdo" hasta "Totalmente de acuerdo". Las preguntas están diseñadas para capturar una visión general de la usabilidad del sistema.

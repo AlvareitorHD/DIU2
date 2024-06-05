@@ -192,8 +192,7 @@ Término | Significado
 ![Método UX](img/ABtesting.png) 
 ### 4.a Caso asignado
 
-El caso asignado es la evaluación del proyecto <em>L de Lectura</em>. Se trata de una plataforma que te permite participar en clubes de lectura, donde puedes realizar lecturas de libros y realizar actividades. En el apartado de lecturas podemos encontrar cada uno de los libros disponibles, así como las valoraciones que poseen. En el apartado de actividades se encuentran las reuniones que se realizan para cada lectura de un libro, así como los comentarios de los asistentes.
-Se nos ha asignado el grupo DIU3.DTR. Link del GitHub: https://github.com/Duva-01/DIU.DTR
+El caso asignado es la evaluación del proyecto <em>[L de Lectura](https://github.com/Duva-01/DIU.DTR)</em>. Se trata de una plataforma que te permite participar en clubes de lectura, donde puedes realizar lecturas de libros y realizar actividades. En el apartado de lecturas podemos encontrar cada uno de los libros disponibles, así como las valoraciones que poseen. En el apartado de actividades se encuentran las reuniones que se realizan para cada lectura de un libro, así como los comentarios de los asistentes.
 
 ### Historia del Caso Asignado
 

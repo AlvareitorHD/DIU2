@@ -189,42 +189,71 @@ Término | Significado
 
 ## Paso 4. Evaluación 
 
+![Método UX](img/ABtesting.png) 
+### 4.a Caso asignado
 
-![Método UX](img/ABtesting.png) 4.a Caso asignado
-----
+El caso asignado es la evaluación del proyecto <em>L de Lectura</em>. Se trata de una plataforma que te permite participar en clubes de lectura, donde puedes realizar lecturas de libros y realizar actividades. En el apartado de lecturas podemos encontrar cada uno de los libros disponibles, así como las valoraciones que poseen. En el apartado de actividades se encuentran las reuniones que se realizan para cada lectura de un libro, así como los comentarios de los asistentes.
 
-El caso asignado es la evaluación del proyecto <em>L de Lectura</em>. Se trata de una plataforma que te permite participar en clubes de lectura, donde puedes realizar lecturas de libros y realizar actividades. En el apartado de lecturas podemos encontrar cada uno de los libros disponibles, así como las valoraciones que poseen. En el partado de actividades se encuentran las reuniones que se realizan para cada lectura de un libro, así como los comentarios de los asistentes.
+### Historia del Caso Asignado
 
+Nuestra misión era evaluar la usabilidad de la plataforma <em>L de Lectura</em>, que se enfoca en crear una comunidad de lectores apasionados que discuten y analizan libros. La plataforma permite a los usuarios acceder a una amplia biblioteca de títulos, leer reseñas, y participar en discusiones y actividades relacionadas con los libros.
 
-![Método UX](img/usability-testing.png) 4.b User Testing
-----
+Uno de los desafíos que enfrentamos fue entender cómo los diferentes usuarios interactúan con las distintas funcionalidades de la plataforma. Desde la navegación por la biblioteca hasta la participación en discusiones de clubes de lectura, necesitábamos una visión clara de la experiencia del usuario.
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| Carmen  | M / 37   | Ama Casa  | Media       | Extrovertido | Móvil       | A 
-| Manuel  | H / 67   | Jubilado  | Baja       | Introvertido       | Windows        | A 
-| Jaime  | H / 21   | Estudiante     | Alta        | Timido    |Linux      | B 
-| Esteban  | H / 27   | Abogado  | Media       | Racional     |Móvil        | B 
+Para abordar esto, seleccionamos un grupo diverso de usuarios que realizarían tareas específicas en la plataforma, y luego evaluaríamos su experiencia utilizando métodos de testing de usabilidad y el cuestionario SUS.
 
+![Método UX](img/usability-testing.png) 
+### 4.b User Testing
 
-![Método UX](img/Survey.png) 4.c Cuestionario SUS
-----
+| Usuarios | Sexo/Edad | Ocupación | Exp.TIC | Personalidad | Plataforma | TestA/B |
+| -------- | --------- | --------- | ------- | ------------ | ---------- | ------- |
+| Carmen   | M / 37    | Ama Casa  | Media   | Extrovertido | Móvil      | A       |
+| Manuel   | H / 67    | Jubilado  | Baja    | Introvertido | Windows    | A       |
+| Jaime    | H / 21    | Estudiante| Alta    | Tímido       | Linux      | B       |
+| Esteban  | H / 27    | Abogado   | Media   | Racional     | Móvil      | B       |
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+#### Historia de los Usuarios
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+**Carmen**, una ama de casa de 37 años, es extrovertida y tiene un conocimiento medio en tecnología. Utiliza su móvil para acceder a la plataforma, disfrutando de la facilidad de acceder a recetas y cursos mientras participa activamente en chats.
 
+**Manuel**, un jubilado de 67 años, con poca experiencia en tecnología, utiliza su ordenador con Windows para explorar la plataforma. Aunque introvertido, se interesa por los cursos ofrecidos y los valora como una oportunidad para aprender nuevas habilidades.
 
-![Método UX](img/usability-report.png) 4.d Usability Report
-----
+**Jaime**, un estudiante tímido de 21 años con alta experiencia en tecnología, utiliza Linux para acceder a la plataforma de clubes de lectura. Aunque reservado, valora la estructura clara y la facilidad de acceso a información sobre libros.
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+**Esteban**, un abogado racional de 27 años, utiliza su móvil para acceder a la plataforma. Aprecia la organización lógica y la claridad en la presentación de actividades y lecturas.
 
+![Método UX](img/Survey.png) 
+### 4.c Cuestionario SUS
 
+>>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados siguiendo las pautas para usar la escala SUS e interpretar los resultados. Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf).
 
->>> Valoración personal 
+### Resultados del Cuestionario SUS
+
+Adjuntamos una captura de imagen con los resultados y una valoración personal de cada usuario:
+
+![Resultados SUS](SUS_Cuestionaries.jpg)
+
+### Valoración Personal
+
+**Carmen** encontró la plataforma fácil de usar pero sugirió mejoras en la interacción del chat.
+
+**Manuel** tuvo dificultades iniciales debido a su baja experiencia en tecnología, pero valoró positivamente la claridad de las instrucciones.
+
+**Jaime** apreció la interfaz limpia y la facilidad de navegación, pero sugirió añadir más funcionalidades interactivas.
+
+**Esteban** encontró la plataforma intuitiva y bien organizada, aunque mencionó que algunas funciones podrían ser más accesibles.
+
+![Método UX](img/usability-report.png) 
+### 4.d Usability Report
+
+El informe de usabilidad para la aplicación "L de Lectura" revela tanto aspectos positivos como áreas de mejora. La aplicación, diseñada para fomentar la lectura y el debate sobre libros, presenta una interfaz de usuario sencilla y una paleta de colores relajante, lo cual favorece la lectura. Sin embargo, un problema significativo es la barra de navegación, que permanece estática en una posición incómoda durante el desplazamiento, dificultando la visibilidad y la navegación de los usuarios.
+
+Los resultados de los tests de usabilidad, que involucraron a usuarios de diferentes perfiles, resaltaron la necesidad de mejorar la intuición y accesibilidad de la plataforma, especialmente para aquellos con menos experiencia en tecnología. Las técnicas utilizadas, como los estudios de eyetracking y los cuestionarios SUS, fueron útiles para identificar estas deficiencias y proponer soluciones, como ajustar la posición de la barra de navegación y simplificar la interfaz, lo cual se espera que mejore significativamente la experiencia del usuario.
+
+### Valoración Personal
+
+El análisis de usabilidad de la aplicación "L de Lectura" reveló tanto puntos favorables como áreas de oportunidad. Mientras que la interfaz simple y la paleta de colores relajante promueven una experiencia de lectura agradable, la barra de navegación estática resulta incómoda al desplazarse, afectando la experiencia del usuario. Los métodos de evaluación, incluyendo el eyetracking y los cuestionarios SUS, fueron efectivos para identificar problemas y proponer soluciones, como ajustar la ubicación de la barra de navegación y simplificar la interfaz, con el fin de mejorar la experiencia general del usuario en la plataforma.
+
 
 
 

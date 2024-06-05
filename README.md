@@ -231,7 +231,7 @@ Para abordar esto, seleccionamos un grupo diverso de usuarios que realizarían t
 
 Adjuntamos una captura de imagen con los resultados y una valoración personal de cada usuario:
 
-![Resultados SUS](SUS_Cuestionaries.jpg)
+![Resultados SUS](P4/SUS_Cuestionaries.jpg)
 
 ### Valoración Personal
 

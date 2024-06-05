@@ -42,18 +42,36 @@ Hemos realizado un estudio de eyetracking donde hemos instruido a los usuarios s
 
 | Usuario | Sexo      | Edad | Ocupación  | Experiencia en internet | Plataforma       | Perfil cubierto                                                                                                                                                        | Test | SUS  |
 | ------- | --------- | ---- | ---------- | ----------------------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ---- |
-| Carmen   | Mujer  | 37   | Ama de Casa | Media                   | Movil | Mujer de mediana edad que se dedica al cuidado del hogar y necesita coordinar actividades familiares de manera eficiente. Necesita una plataforma intuitiva y fácil de usar.                       | A    | 75 |
-| Manuel    | Hombre | 67   | Jubilado | Baja                    | Windows | Hombre jubilado con poca experiencia en internet, buscando cursos de cocina para pasar el rato. Encuentra la plataforma un tanto difícil de entender.                        | A    | 45 |
 | Jaime     | Hombre  | 21   | Estudiante | Alta                    | Linux   | Joven estudiante apasionado por la lectura y los debates. Quiere encontrar un grupo con el que compartir ideas sobre sus libros favoritos.   | B    | 70   |
 | Esteban  | Hombre | 27   | Abogado   | Media                    | Movil          | Abogado joven que busca una forma de desestresarse después de un duro día de trabajo. La plataforma es un poco confusa debido a que no puede ver de forma correcta su contenido. | B    | 63   |
 
-### Resultados obtenidos
+### Eyetracking
 
-Los resultados de los cuestionarios reflejan una clara diferencia entre los usuarios para la aplicación A, tan vez debido a la poca experiencia y la avanzada edad que tiene uno de los sujetos.<br>
-Por otro lado, vemos una mayor cercanía con respecto a las valoraciones de la aplicación B, ya que se trata de sujetos jóvenes con mayor experiencia con el uso de las TICs.
+- **Tarea B: Consultar información de un libro de Harry Potter**:
+
+![inicio de la app](eyetracking/f1.jpg)Inicio de la App
+
+![seccion lecturas](eyetracking/f2.jpg)Sección de Lecturas
+
+![harry potter](eyetracking/f3.jpg)Detalles del libro
+
+![descripcion del libro](eyetracking/f4.jpg)Descripción y comentarios
+
+#### Resultados del Eye Tracking de la tarea B:
+
+En el inicio detectamos AOI tanto en el título de la sección como en los iconos de navegación de abajo (en el heatmap hay un poco de imprecisión). El uso de imágenes captan más o menos la atención del usuario.
+
+En la sección de ***Lecturas*** tenemos varios AOI en el título y en los primeros cards de libros.
+
+En la portada del libro captamos un AOI en su derecha, dando la impresión de buscar algo abajo a la derecha para más información o seguir navegando.
+
+Cuando scrolleamos para leer la descripción y comentarios se consigue captar la atención, ya que se muestran varios AOI leves en la descripción y uno fuerte en los labels de comentarios.
+
+### Resultados obtenidos de los cuestionarios SUS
+
+Con los resultados obtenidos de los cuestionarios SUS, podemos observar que hay un gran acercamiento entre los datos obtenidos en los cuestionarios SUS, siendo el SUS score un OK, de acuerdo a la escala Adjetiva.
 
 * Consulte de forma más detallada los [Cuestionarios SUS](./SUS_Cuestionaries.jpg)
-* Consulte de forma más detallada sobre el eyetracking en el [readme](./readme.md)
 
 ## 4 CONCLUSIONES 
 
